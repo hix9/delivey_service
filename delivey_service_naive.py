@@ -1,4 +1,3 @@
-'''ID 103819205'''
 def min_platforms() -> int:
     '''Метод расчёта минимальных транспортных платформ.'''
     robots: list = [int(i) for i in input().split()]
